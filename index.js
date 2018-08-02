@@ -18,7 +18,7 @@ function scuberGreetingForFeet (feet) {
 
 }
 
-/*
+
 
 function ternaryCheckCity (city) {
 
